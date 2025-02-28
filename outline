@@ -1,0 +1,25 @@
+/*
+Lab 2
+Bryan Gamboa , 1001921624
+
+I am writing this program to understand the concept of linked-index merge sort. 
+This sorts a sequence of integers by maintaining stability and storing the values 
+using "links array "without modifying the original "keys array".
+
+Omega Compilaton: 
+gcc lab2.c
+./a.out
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+
+// global arrays for keys and links 
+int *keys, *links;
+
+//merge funciton for two sublists
+
+
+//mergesort function
+
+//main
